@@ -13,7 +13,10 @@ My make-up may be flaking,
 But my smile, still, stays on!
 
 some content
+<<<<<<< HEAD
 and here
+=======
+>>>>>>> 6c81abb37c77894b96c7dcd8f293b9be6fee656a
 
 
 
